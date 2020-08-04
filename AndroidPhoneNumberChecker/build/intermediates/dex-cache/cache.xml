@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Heeba/Library/Android/sdk/extras/google/google_play_services/Project1/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/Heeba/Library/Android/sdk/extras/google/google_play_services/Project1/app/build/intermediates/pre-dexed/debug/classes-793659ca98a1e09517b5bcbc4fd60dd80b88962e.jar" />
+    </item>
+    <item
+        jar="/Users/Heeba/Library/Android/sdk/extras/google/google_play_services/Project1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Heeba/Library/Android/sdk/extras/google/google_play_services/Project1/app/build/intermediates/pre-dexed/debug/classes-3f9442b8523dfd2e4ee0468bbc29ec1ecf04f41b.jar" />
+    </item>
+    <item
+        jar="/Users/Heeba/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/Heeba/Library/Android/sdk/extras/google/google_play_services/Project1/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-62ec7a1a451d611848c2978bbab97fe2e6474b26.jar" />
+    </item>
+    <item
+        jar="/Users/Heeba/Library/Android/sdk/extras/google/google_play_services/Project1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Heeba/Library/Android/sdk/extras/google/google_play_services/Project1/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-ea8a89d185c38baf735b3d938852880d24b33b1d.jar" />
+    </item>
+    <item
+        jar="/Users/Heeba/Library/Android/sdk/extras/google/google_play_services/Project1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/Heeba/Library/Android/sdk/extras/google/google_play_services/Project1/app/build/intermediates/pre-dexed/debug/classes-a118e03ffc4ac2eeaf1c5d17ca6556c71c5067f5.jar" />
+    </item>
+    <item
+        jar="/Users/Heeba/Library/Android/sdk/extras/google/google_play_services/Project1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Heeba/Library/Android/sdk/extras/google/google_play_services/Project1/app/build/intermediates/pre-dexed/debug/classes-173e59d3ee2a34c212fbf10478001591c8d125fb.jar" />
+    </item>
+
+</items>
